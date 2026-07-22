@@ -29,9 +29,7 @@ prize_money = [1000, 2000, 5000, 10000, 20000]
 # List to keep the letter labels for options
 labels = ["A", "B", "C", "D"]
 
-print("=" * 50)
 print("WELCOME TO KAUN BANEGA CROREPATI - QUIZ GAME")
-print("=" * 50)
 
 name = input("Enter your name: ")
 print("\nGood luck, " + name + "! Let's begin.\n")
@@ -42,7 +40,7 @@ money_won = 0
 for i in range(len(questions)):
 
     if still_playing == True:
-        print("-" * 50)
+    
         print("Question " + str(i + 1) + " for Rs. " + str(prize_money[i]))
         print(questions[i])
 
