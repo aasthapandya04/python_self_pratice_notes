@@ -19,3 +19,13 @@ print(txt)
 # .2f - sirf 2 decimal places tak karega 
 
 print(f"{2*30}")
+
+# doc strings
+# remeber - write it just below the function
+
+def square(n):     # function
+    '''Takes a number and does the square of it ''' # doc string that gives definition of function
+    print(n**2)
+square(5)
+print(square.__doc__)
+# doc string can be access using doc attribute
