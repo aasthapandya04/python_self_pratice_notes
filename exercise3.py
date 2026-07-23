@@ -35,6 +35,7 @@ name = input("Enter your name: ")
 print("\nGood luck, " + name + "! Let's begin.\n")
 
 money_won = 0
+still_playing = True
 
 # Loop through each question using its index
 for i in range(len(questions)):
