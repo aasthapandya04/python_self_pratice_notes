@@ -1,4 +1,4 @@
-# for loops
+# for loops :-
 # Number of iterations are known
 # for loop is the most used loop in python
 
@@ -33,7 +33,7 @@ for m in range(1, 10, 2):
     print(m)
 # increment by 2
 
-# While loop
+# While loop :-
 # number of iterations are not known
 
 i = 0
@@ -58,7 +58,7 @@ while(count > 0):
 else:
     print("Loop ended")
 
-# Do While 
+# Do While :-
 # Do While loop is not available in python 
 # but we can simulate it using while loop
 
