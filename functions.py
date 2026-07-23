@@ -1,6 +1,6 @@
 # functions 
 
-# Mean nikalne ke liye function
+# Function to calculate mean
 
 def calculategmean(a , b):
     gmean = (a * b) / (a + b)
