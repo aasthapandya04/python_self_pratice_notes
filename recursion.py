@@ -34,3 +34,9 @@ def fib(n):
 print(fib(8))
 print(fib(3))
 print(fib(6))
+
+# Print the first 10 numbers of the Fibonacci series
+terms = 10
+
+for i in range(terms):
+    print(fib(i))
