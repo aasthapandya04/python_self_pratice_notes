@@ -33,7 +33,7 @@ else:
 # 5:00 PM – 8:59 PM → Good Evening
 # 9:00 PM – 4:59 AM → Good Night
 
-# This is a simple and standard way to complete the exercise using Python's time module.
+# This is a simple and standard way to complete the exercise using Python time module.
 
 
 
