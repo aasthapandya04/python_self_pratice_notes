@@ -1,4 +1,4 @@
-# Lists 
+# Lists in python
 
 marks = [90, 80, 70, 60, 50]
 print(marks)
