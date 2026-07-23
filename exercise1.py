@@ -1,4 +1,3 @@
-# Standard calculator in python
 # Simple Calculator
 
 num1 = float(input("Enter first number: "))
